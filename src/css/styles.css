@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url(../assets/Fonts/Vazir-Thin.eot);
+    src: url(../assets/Font/Vazir-Thin.eot?#iefix) format('embedded-opentype')
+        url(../assets/Fonts/Vazir-Thin.woff) format('woff'),
+        url(../assets/Fonts/Vazir-Thin.woff2) format('woff2'),
+        url(../assets/Fonts/Vazir-Thin.ttf) format('truetype');
+        
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+}
+body {
+    font-family: Vazir !important;
+    height: 100vh;
+}
